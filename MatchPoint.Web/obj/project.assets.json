@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\arthu\\.nuget\\packages\\": {}
+    "C:\\Users\\mathe\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\arthu\\source\\repos\\BennerPong\\MatchPoint.Web\\MatchPoint.Web.csproj",
+      "projectUniqueName": "D:\\WorkSpace\\Vs\\MatchPoint\\MatchPoint.Web\\MatchPoint.Web.csproj",
       "projectName": "MatchPoint.Web",
-      "projectPath": "C:\\Users\\arthu\\source\\repos\\BennerPong\\MatchPoint.Web\\MatchPoint.Web.csproj",
-      "packagesPath": "C:\\Users\\arthu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\arthu\\source\\repos\\BennerPong\\MatchPoint.Web\\obj\\",
+      "projectPath": "D:\\WorkSpace\\Vs\\MatchPoint\\MatchPoint.Web\\MatchPoint.Web.csproj",
+      "packagesPath": "C:\\Users\\mathe\\.nuget\\packages\\",
+      "outputPath": "D:\\WorkSpace\\Vs\\MatchPoint\\MatchPoint.Web\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\arthu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\mathe\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

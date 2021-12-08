@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\arthu\\source\\repos\\BennerPong\\MatchPoint.BackEnd.Utils\\MatchPoint.BackEnd.Utils.csproj": {}
+    "D:\\WorkSpace\\Vs\\MatchPoint\\MatchPoint.BackEnd.Utils\\MatchPoint.BackEnd.Utils.csproj": {}
   },
   "projects": {
-    "C:\\Users\\arthu\\source\\repos\\BennerPong\\MatchPoint.BackEnd.Utils\\MatchPoint.BackEnd.Utils.csproj": {
+    "D:\\WorkSpace\\Vs\\MatchPoint\\MatchPoint.BackEnd.Utils\\MatchPoint.BackEnd.Utils.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\arthu\\source\\repos\\BennerPong\\MatchPoint.BackEnd.Utils\\MatchPoint.BackEnd.Utils.csproj",
+        "projectUniqueName": "D:\\WorkSpace\\Vs\\MatchPoint\\MatchPoint.BackEnd.Utils\\MatchPoint.BackEnd.Utils.csproj",
         "projectName": "MatchPoint.BackEnd.Utils",
-        "projectPath": "C:\\Users\\arthu\\source\\repos\\BennerPong\\MatchPoint.BackEnd.Utils\\MatchPoint.BackEnd.Utils.csproj",
-        "packagesPath": "C:\\Users\\arthu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\arthu\\source\\repos\\BennerPong\\MatchPoint.BackEnd.Utils\\obj\\",
+        "projectPath": "D:\\WorkSpace\\Vs\\MatchPoint\\MatchPoint.BackEnd.Utils\\MatchPoint.BackEnd.Utils.csproj",
+        "packagesPath": "C:\\Users\\mathe\\.nuget\\packages\\",
+        "outputPath": "D:\\WorkSpace\\Vs\\MatchPoint\\MatchPoint.BackEnd.Utils\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\arthu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\mathe\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

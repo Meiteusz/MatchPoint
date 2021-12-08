@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\arthu\\source\\repos\\BennerPong\\BennerPong.BackEnd.Entities\\MatchPoint.BackEnd.Entities.csproj": {}
+    "D:\\WorkSpace\\Vs\\MatchPoint\\BennerPong.BackEnd.Entities\\MatchPoint.BackEnd.Entities.csproj": {}
   },
   "projects": {
-    "C:\\Users\\arthu\\source\\repos\\BennerPong\\BennerPong.BackEnd.Entities\\MatchPoint.BackEnd.Entities.csproj": {
+    "D:\\WorkSpace\\Vs\\MatchPoint\\BennerPong.BackEnd.Entities\\MatchPoint.BackEnd.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\arthu\\source\\repos\\BennerPong\\BennerPong.BackEnd.Entities\\MatchPoint.BackEnd.Entities.csproj",
+        "projectUniqueName": "D:\\WorkSpace\\Vs\\MatchPoint\\BennerPong.BackEnd.Entities\\MatchPoint.BackEnd.Entities.csproj",
         "projectName": "MatchPoint.BackEnd.Entities",
-        "projectPath": "C:\\Users\\arthu\\source\\repos\\BennerPong\\BennerPong.BackEnd.Entities\\MatchPoint.BackEnd.Entities.csproj",
-        "packagesPath": "C:\\Users\\arthu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\arthu\\source\\repos\\BennerPong\\BennerPong.BackEnd.Entities\\obj\\",
+        "projectPath": "D:\\WorkSpace\\Vs\\MatchPoint\\BennerPong.BackEnd.Entities\\MatchPoint.BackEnd.Entities.csproj",
+        "packagesPath": "C:\\Users\\mathe\\.nuget\\packages\\",
+        "outputPath": "D:\\WorkSpace\\Vs\\MatchPoint\\BennerPong.BackEnd.Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\arthu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\mathe\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
